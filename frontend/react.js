@@ -2,7 +2,7 @@
  * REACT.JS CHEATSHEET
  * DOCUMENTATION: https://reactjs.org/docs/
  * FILE STRUCTURE: https://reactjs.org/docs/faq-structure.html
- * ******************************************************************************************* */
+ * ******************************************************************************************* */ 
 
 
 ```
